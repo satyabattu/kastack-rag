@@ -1,4 +1,16 @@
+---
+title: kastack-rag
+emoji: 🤖
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.37.0"
+python_version: "3.10"
+app_file: app.py
+pinned: false
+---
 # ConvoRAG — KaStack AI/ML Intern Task
+
 
 End-to-end RAG system over conversation data with topic segmentation, persona extraction, and a Streamlit chatbot.
 
